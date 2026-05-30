@@ -2,7 +2,7 @@
 
 MS Business Analytics @ Duke University | Ex-Goldman Sachs
 
-I work at the intersection of data and strategy — building dashboards, 
+I work at the intersection of data and strategy - building dashboards, 
 running models, and turning complex data into clear business decisions.
 
 **Tools I work with:**
