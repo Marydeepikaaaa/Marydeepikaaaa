@@ -14,4 +14,38 @@ running models, and turning complex data into clear business decisions.
 - Market Research & Competitive Analysis
 - Stakeholder Reporting & KPI Dashboards
 
- [LinkedIn](https://www.linkedin.com/in/mary-yeruva)
+## Featured Projects
+
+### 📊 Switchback Cycle Analytics
+Retail profitability and operational analysis using Tableau to identify
+performance trends, margin drivers, and business opportunities.
+
+**Tools:** Tableau | Data Visualization | Business Analytics
+
+[View Project →](https://github.com/Marydeepikaaaa/switchback-cycle-analytics)
+
+---
+
+### 📈 Coupon Campaign Causal Inference
+Causal analysis of a marketing campaign using Synthetic Control and
+Causal Forests to estimate treatment effects and customer-level heterogeneity.
+
+**Tools:** R | Synthetic Control | Causal Forests | Causal Inference
+
+[View Project →](https://github.com/Marydeepikaaaa/coupon-campaign-causal-inference)
+
+---
+
+### 🏭 Manufacturing Transition Stability Analysis
+Synthetic manufacturing analytics project examining transition stability,
+operational performance, and factors associated with stabilization time.
+
+**Tools:** Python | Pandas | Scikit-learn | Random Forest | Matplotlib
+
+[View Project →](https://github.com/Marydeepikaaaa/manufacturing-transition-stability-analysis)
+
+---
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/mary-yeruva) | [Portfolio](https://marydeepikayeruva.lovable.app)
