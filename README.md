@@ -14,6 +14,8 @@ running models, and turning complex data into clear business decisions.
 |:---:|:---:|:---:|:---:|
 | **Faster Processing** | **Higher Data Accuracy** | **Higher Engagement** | **Team Members Led** |
 | Workflow & process improvements | Data management & reporting improvements | Program & event initiatives | AIESEC leadership |
+> Experience spanning financial services, operations, analytics, and leadership, with a focus on turning data and business problems into measurable outcomes.
+
 
 **What I do:**
 - Business & Data Analysis
