@@ -1,6 +1,6 @@
 # Hi, I'm Mary Deepika Yeruva 
 
-MS Business Analytics @ Duke University | Ex-Goldman Sachs
+Duke MQM Business Analytics Graduate | Ex-Goldman Sachs | Business & Data Analyst
 
 I work at the intersection of data and strategy - building dashboards, 
 running models, and turning complex data into clear business decisions.
