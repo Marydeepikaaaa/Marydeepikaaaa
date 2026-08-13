@@ -8,6 +8,13 @@ running models, and turning complex data into clear business decisions.
 **Tools I work with:**
 `SQL` `Python` `Tableau` `Power BI` `Advanced Excel` `R` `Snowflake`
 
+## 📊 Impact Snapshot
+
+| 20% | 15% | 30% | 23 |
+|:---:|:---:|:---:|:---:|
+| **Faster Processing** | **Higher Data Accuracy** | **Higher Engagement** | **Team Members Led** |
+| Workflow & process improvements | Data management & reporting improvements | Program & event initiatives | AIESEC leadership |
+
 **What I do:**
 - Business & Data Analysis
 - Predictive Modeling & Regression
